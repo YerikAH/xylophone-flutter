@@ -11,4 +11,4 @@ Text :)
 
 ## Screenshots 📱
 
-<img src="./assets/indice.ong" width="375" alt="an image" />
+<img src="./assets/indice.png" width="375" alt="an image" />
