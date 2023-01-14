@@ -1,5 +1,5 @@
 # xilofono_app
-More text :)
+A simple mobile application, developed with Flutter, and with the Audio Player library.
 
 ## Development 🧱
 Text :)
